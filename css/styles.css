@@ -1,0 +1,114 @@
+body {
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+       /* HEADER */
+
+.logo-link {
+    color: #2E2F42;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16; 
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+}
+
+.logo-web {
+    color: #4D5AE5;
+}
+
+.menu-nav-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height:1.5;
+    letter-spacing: 0.02em;
+}
+
+.menu-nav-link:hover,
+.menu-nav-link:focus {
+    color: #4D5AE5;
+}
+
+.contacts-link {
+    color: #434455;
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
+    font-style: normal;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+    color: #4D5AE5;
+}
+
+  /* HERO */
+
+.hero-block {
+    background-color: #2E2F42;
+
+
+}   
+
+.hero-title {
+color: #FFF;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07; 
+letter-spacing: 0.02em;
+}
+
+.button-hero {
+cursor: pointer;
+color: #FFF;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+border: none;
+border-radius: 4px;
+background-color:  #4D5AE5;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.button-hero:hover,
+.button-hero:focus {
+    background-color: #404BBF;
+}
+
+/* First section after hero */
+
+.our-approach {
+    display: none;
+}
+
+.title-privilege {
+color: #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.privilege-p {
+color: #434455;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+
