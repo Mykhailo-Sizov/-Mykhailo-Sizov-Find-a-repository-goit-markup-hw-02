@@ -92,7 +92,7 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
-border: none;
+
 border-radius: 4px;
 background-color:  #4D5AE5;
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
@@ -105,9 +105,7 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 
 /* First section after hero */
 
-/* .our-approach {
-    display: none;
-} */
+
 
 .title-privilege {
     color: #2E2F42;
@@ -143,7 +141,7 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     background-color: #FFF;
 }
 
-.our-team-h3 {
+.title-team {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
@@ -165,9 +163,10 @@ box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
-.portfolio-h3 {
+.portfolio-name {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
